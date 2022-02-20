@@ -27,7 +27,8 @@
 
 ### Bachelor's Degree Program
 
-#### iOS
+#### iOS Platform
+
 
 [iOS](https://github.com/EShenoda/iOS)
 
@@ -37,7 +38,7 @@
 
 [iOS Project](https://github.com/EShenoda/iOS-Project)
 
-#### Android
+#### Android Platform
 
 [Google Programming Language](https://github.com/EShenoda/GPL)
 
