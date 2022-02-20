@@ -8,20 +8,56 @@
 
 
 ## Table of contents
-* [Associates Degree Courses](#Associate's-Degree)
-* [Bachelor's Degree Courses](#Bachelor's-Degree)
-* [Project Courses](#Project-Courses)
+* [Associates Degree Courses](#Associate's-Degree-Program)
+* [Bachelor's Degree Courses](#Bachelor's-Degree-Program)
+* [Project Courses](#Project-&-Porfolio-Courses)
 * [Status](#status)
 * [Copyright](#copyright)
 * [Contact](#contact)
 
 
 
-### Associate's Degree
+### Associate's Degree Program
 
-### Bachelor's Degree
+[Scalable Data Infrastructures](https://github.com/EShenoda/SDI)
 
-### Project Courses
+[Advanced Scalable Data Infrastructures](https://github.com/EShenoda/ASD)
+
+[Visual Frameworks](https://github.com/EShenoda/VFW)
+
+### Bachelor's Degree Program
+
+#### iOS
+
+[iOS](https://github.com/EShenoda/iOS)
+
+[iOS Development I](https://github.com/EShenoda/iOS-Development-I)
+
+[iOS Development II](https://github.com/EShenoda/iOS-Development-II)
+
+[iOS Project](https://github.com/EShenoda/iOS-Project)
+
+#### Android
+
+[Google Programming Language](https://github.com/EShenoda/GPL)
+
+[Advanced Interface Design](https://github.com/EShenoda/AID)
+
+[Android Development I](https://github.com/EShenoda/Android-Development-I)
+
+[Android Development II](https://github.com/EShenoda/Android-Development-II)
+
+### Project & Portfolio Courses
+
+[Project & Portfolio I](https://github.com/EShenoda/Portfolio-I)
+
+[Project & Portfolio II](https://github.com/EShenoda/Portfolio-II)
+
+[Project & Portfolio III](https://github.com/EShenoda/Portfolio-III)
+
+[Project & Portfolio IV](https://github.com/EShenoda/Portfolio-IV)
+
+[Project & Portfolio V](https://github.com/EShenoda/Portfolio-V)
 
 ## Status
 Current GPA: 99.6 __A+__
