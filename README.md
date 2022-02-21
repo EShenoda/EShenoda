@@ -11,7 +11,6 @@
 * [Associates Degree Courses](#Associate's-Degree-Program)
 * [Bachelor's Degree Courses](#Bachelor's-Degree-Program)
 * [Project Courses](#Project-&-Porfolio-Courses)
-* [Github Stats](#Stats)
 * [Status](#status)
 * [Copyright](#copyright)
 * [Contact](#contact)
@@ -61,18 +60,15 @@
 
 [Project & Portfolio V](https://github.com/EShenoda/Portfolio-V)
 
-## Stats
-
-
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=EShenoda&count_private=true&show_icons=true&theme=radical)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EShenoda&count_private=true&show_icons=true&theme=radical)
-
 ## Status
 Current GPA: 99.6 __A+__
 
 Current Course: Bachelor's Degree Final Project
+
+
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=EShenoda&count_private=true&show_icons=true&theme=tokyonight)
 
 ##  Copyright
 Private Repo for ESShenoda@student.fullsail.edu
