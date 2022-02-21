@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Emil Shenoda</h1>
 <h3>I'm currently working on a Bachelor's Degree in Mobile Development at Full Sail University.</h3>
 
-
+<p align="center">
+  <img src= "Images/FullSail.png" height=450>
+</p>
 
 
 ## Table of contents
