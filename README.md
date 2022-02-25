@@ -8,14 +8,26 @@
 
 ## Table of contents
 
+* [Status](#status)
 * [iOS Examples](#ios-examples)
 * [Android Examples](#android-examples)
 * [Associate's Degree Courses](#associate-degree-program)
 * [Bachelor's Degree Courses](#bachelor-degree-program)
 * [Project Courses](#project-and-portfolio)
-* [Status](#status)
 * [Copyright](#copyright)
 * [Contact](#contact)
+
+
+## Status
+
+
+<h3 style="bold"> <font color="green"> Current GPA: 3.96  </font> </h4>
+
+
+Current Course: Bachelor's Degree Final Project
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=EShenoda&count_private=true&show_icons=true&theme=tokyonight)
 
 
 ## iOS Examples
@@ -30,6 +42,9 @@
 ## Android Examples
 
 
+
+
+<h4 align="center"> <font color="red"> Links to Degree Program & Portfolio Courses require a GitHub account. Only available for collaborators. </font> </h4>
 
 
 
@@ -89,15 +104,7 @@ ___
 
 [Project & Portfolio V](https://github.com/EShenoda/Portfolio-V)
 
-## Status
-Current GPA: 3.96 __A+__
 
-Current Course: Bachelor's Degree Final Project
-
-
-
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=EShenoda&count_private=true&show_icons=true&theme=tokyonight)
 
 ##  Copyright
 Private Repo for ESShenoda@student.fullsail.edu
