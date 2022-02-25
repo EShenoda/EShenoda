@@ -33,6 +33,108 @@ Current Course: Bachelor's Degree Final Project
 ## iOS Examples
 
 
+<h3 align="center">Card Matching Game</h3>
+
+__Main concepts__: 
+
+* Core Data
+* UITapGestureRecognizers
+* Stack Views
+* Button Collections
+* Custom HeaderFooterViews
+* Custom TableView Cells
+* Size Classes for iPhone & iPad
+* Swift Timers
+* User Interface Idiom
+* AVAudioPlayer
+* Custom Animation
+
+
+__Extra functionality to add to the user experience__:
+
+
+<p align="center">
+  <img src= "Images/Loading.gif" height= 550>
+</p>
+
+
+__Load Game Animation__
+
+___
+
+<p align="center">
+  <img src= "Images/Button.gif" height=550>
+</p>
+
+<p align="center">
+  <img src= "Images/iPad.gif" height=550>
+</p>
+
+
+[Animations for pulsating Start / Stop button](./ShenodaEmil_4.1/ShenodaEmil_4.1/PulsingButtons.swift)
+
+[Flashing Colors](./ShenodaEmil_4.1/ShenodaEmil_4.1/UIColor_EXT.swift)
+
+___
+
+
+<p align="center">
+  <img src="Images/Shake.gif" height=550>
+</p>
+
+
+[Card Shake Animation](./ShenodaEmil_4.1/ShenodaEmil_4.1/Card.swift)
+
+___
+
+
+<p align="center">
+  <img src="Images/Segue.gif" height=550>
+</p>
+
+
+[Custom Segue Transition](./ShenodaEmil_4.1/ShenodaEmil_4.1/ScaleSegue.swift)
+
+___
+
+Layout
+
+
+<p align="center">
+  <img src="Images/Layout.gif" height=550>
+</p>
+
+___
+
+iPad: Add Progress Bar / 10 Extra Cards
+
+
+<p align="center">
+  <img src= "Images/ProgressBar.gif" height=550>
+</p>
+
+
+___
+
+AudioPlayer
+
+
+```Swift
+// Audio Player
+func playSound(sound: String, type: String = "mp3") {
+        if let path = Bundle.main.path(forResource: sound, ofType: type) {
+            do {
+                let url = URL(fileURLWithPath: path)
+                audioPlayer = try AVAudioPlayer(contentsOf: url)
+                audioPlayer?.play()
+            } catch {
+                print("ERROR")
+            }
+        }
+    }
+```
+___
+
 
 
 
@@ -44,7 +146,7 @@ Current Course: Bachelor's Degree Final Project
 
 
 
-<h4 align="center"> <font color="red"> Links to Degree Program & Portfolio Courses require a GitHub account. Only available for collaborators. </font> </h4>
+<h4 align="center"> <font color="red"> **Links to Degree Program & Portfolio Courses require a GitHub account. Private repositories are available for collaborators. </font> </h4>
 
 
 
@@ -93,6 +195,8 @@ ___
 ## Project and Portfolio
 
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials_2x.png" alt="swift" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp; </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2020/04/devblog-brand-visualstudiowin2019.png" alt="android" width="70" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp; </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;</a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp; </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;</a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp; </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;</a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+
+
 
 [Project & Portfolio I](https://github.com/EShenoda/Portfolio-I)
 
