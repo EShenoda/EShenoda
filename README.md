@@ -73,7 +73,7 @@ ___
 [Project & Portfolio V](https://github.com/EShenoda/Portfolio-V)
 
 ## Status
-Current GPA: 99.6 __A+__
+Current GPA: 3.96 __A+__
 
 Current Course: Bachelor's Degree Final Project
 
