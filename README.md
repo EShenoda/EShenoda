@@ -71,9 +71,9 @@ ___
 </p>
 
 
-[Animations for pulsating Start / Stop button](./ShenodaEmil_4.1/ShenodaEmil_4.1/PulsingButtons.swift)
+__Animations for pulsating Start / Stop button__
 
-[Flashing Colors](./ShenodaEmil_4.1/ShenodaEmil_4.1/UIColor_EXT.swift)
+__Flashing Colors__
 
 ___
 
@@ -83,7 +83,7 @@ ___
 </p>
 
 
-[Card Shake Animation](./ShenodaEmil_4.1/ShenodaEmil_4.1/Card.swift)
+__Card Shake Animation__
 
 ___
 
@@ -93,20 +93,21 @@ ___
 </p>
 
 
-[Custom Segue Transition](./ShenodaEmil_4.1/ShenodaEmil_4.1/ScaleSegue.swift)
+__Custom Segue Transition__
 
 ___
 
-Layout
 
 
 <p align="center">
   <img src="Images/Layout.gif" height=550>
 </p>
 
+__Layout Changes__
+
 ___
 
-iPad: Add Progress Bar / 10 Extra Cards
+__iPad: Add Progress Bar / 10 Extra Cards__
 
 
 <p align="center">
