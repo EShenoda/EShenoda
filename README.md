@@ -143,15 +143,8 @@ ___
 
 App name: __Healthy Living__
 
-* Google Drive links: 
 
 > 'Right click' and open in new tab
-
-[App Definition Statement](https://docs.google.com/document/d/1F3cNCJf84UWyHVi0T-j1AHQaI6H4EMlZznZuyHkacY0/edit?usp=sharing)
-
-[Project Research](https://drive.google.com/file/d/15jVq28QEAEUnNY-DgGuD4aXVWslbu4Z_/view?usp=sharing)
-
-[User Stories & Functional Requirements](https://docs.google.com/spreadsheets/d/1kk-iq0WuDFRSjUZ22ZUg1iX8QPFZALFlietTsmtOMko/edit?usp=sharing)
 
 * Adobe XD: 
 
