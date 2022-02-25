@@ -32,8 +32,9 @@ Current Course: Bachelor's Degree Final Project
 
 ## iOS Examples
 
+<h2 align="center">Card Matching Game</h3>
 
-<h3 align="center">Card Matching Game</h3>
+<p align="center"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials_2x.png" alt="swift" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp; </a>  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp; </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;</a>  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
 __Main concepts__: 
 
@@ -138,6 +139,68 @@ func playSound(sound: String, type: String = "mp3") {
 ```
 ___
 
+## iOS Project & Portfolio
+
+App name: __Healthy Living__
+
+* Google Drive links: 
+
+> 'Right click' and open in new tab
+
+[App Definition Statement](https://docs.google.com/document/d/1F3cNCJf84UWyHVi0T-j1AHQaI6H4EMlZznZuyHkacY0/edit?usp=sharing)
+
+[Project Research](https://drive.google.com/file/d/15jVq28QEAEUnNY-DgGuD4aXVWslbu4Z_/view?usp=sharing)
+
+[User Stories & Functional Requirements](https://docs.google.com/spreadsheets/d/1kk-iq0WuDFRSjUZ22ZUg1iX8QPFZALFlietTsmtOMko/edit?usp=sharing)
+
+* Adobe XD: 
+
+[Application Prototype](https://xd.adobe.com/view/88495071-11e1-48cc-8189-e4a0b9b30895-dd1a/)
+
+
+
+__Storyboard Layout__
+
+<p align="center">
+  <img src= "Images/Storyboard.png" width=550>
+</p>
+
+__Prototype__
+
+<p align="center">
+  <img src= "Images/Prototype.png">
+</p>
+
+
+<p align="center">
+	<img src= "Images/Picker.png" height=350/>
+</p>
+
+<p align="center">
+	<img src= "Images/SelectCuisine.gif" height=350/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
+   <img src= "Images/Selection.gif" height=350/>
+</p>
+
+
+
+<p align="center">
+	<img src= "Images/Login.gif" height=350/>
+</p>
+
+
+
+<p align="center">
+	<img src= "Images/Save.gif" height=350/>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
+   <img src= "Images/Delete.gif" height=350/>
+</p>
+
+
+
+<p align="center">
+	<img src= "Images/Nav.gif" height=350/>
+</p>
 
 
 
