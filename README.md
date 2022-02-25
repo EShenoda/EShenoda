@@ -107,13 +107,15 @@ __Layout Changes__
 
 ___
 
-__iPad: Add Progress Bar / 10 Extra Cards__
+
 
 
 <p align="center">
   <img src= "Images/ProgressBar.gif" height=550>
 </p>
 
+
+__iPad: Add Progress Bar / 10 Extra Cards__
 
 ___
 
