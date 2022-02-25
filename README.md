@@ -218,6 +218,45 @@ Topics of research:
 </p>
 
 
+### Media Playback
+
+__Main concept__: Build a media player app that plays songs in sequence. The application should be able to run while closed by using a foreground service. Some of the playback functionality will also be accessible through a notification. Notification allows the user to skip to previous or next song.
+
+
+Topics of research:
+
+* Media Player Class
+* Finite State Machine
+* Foreground Services 
+* Expanded Style Notifications
+* Audio Playback
+* Seekbars & Runnables
+* Raw Resources
+* Retrieve meta-data from media file
+
+<p align="center">
+  <img src= "Images/Media-1.gif" height=350>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
+<img src= "Images/Media-2.gif" height=350>
+</p>
+
+
+<p align="center">
+  <img src= "Images/Media-3.gif" height=350>
+</p>
+
+<p align="center">
+  <img src= "Images/Media-4.gif" width=350>
+</p>
+
+<p align="center">
+  <img src= "Images/Media.gif" width=350>
+</p>
+
+
+<p align="center">
+  <img src= "Images/Media-6.gif" height=350>
+</p>
 
 
 <h4 align="center"> <font color="red"> **Links to Degree Program & Portfolio Courses require a GitHub account. Private repositories are available for collaborators. </font> </h4>
