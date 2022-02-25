@@ -250,7 +250,7 @@ Topics of research:
 </p>
 
 <p align="center">
-  <img src= "Images/Media.gif" width=350>
+  <img src= "Images/Media-5.gif" width=350>
 </p>
 
 
