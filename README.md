@@ -205,9 +205,24 @@ __Prototype__
 
 
 
-
-
 ## Android Examples
+
+### Advanced Layout Design
+
+__Main concept__: Build a Google Play Store mockup.
+
+
+Topics of research:
+
+* Material Design
+* Nested Layouts
+* Parallax collapsing toolbar layout
+
+<p align="center">
+  <img src= "Images/Playstore-1.png" height=550>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
+<img src= "Images/Playstore-2.gif" height=350>
+</p>
 
 
 
