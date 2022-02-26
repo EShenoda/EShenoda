@@ -142,7 +142,7 @@ __iPad: Add Progress Bar / 10 Extra Cards__
 
 
 
-[Click Here to View More iOS Illustrations](https://github.com/EShenoda/iOS-Illustrations)
+## [Click Here to View More iOS Illustrations](https://github.com/EShenoda/iOS-Illustrations)
 
 
 
@@ -204,7 +204,7 @@ Topics of research:
 </p>
 
 
-[Click Here to View More Android Illustrations](https://github.com/EShenoda/Android-Illustrations)
+## [Click Here to View More Android Illustrations](https://github.com/EShenoda/Android-Illustrations)
 
 
 
