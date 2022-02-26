@@ -210,7 +210,7 @@ Topics of research:
 
 
 
-<h4 align="center"> <font color="red"> **Links to Degree Program & Portfolio Courses require a GitHub account. Private repositories are available for collaborators. </font> </h4>
+<h3 align="center"> <font color="red"> **Links to Degree Program & Portfolio Courses require a GitHub account. Private repositories are available for collaborators. </font> </h4>
 
 
 
