@@ -256,22 +256,28 @@ ___
 
 ## Project and Portfolio
 
+### [Project & Portfolio I](https://github.com/EShenoda/Portfolio-I)
 
-https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
-
-https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white
-
-[Project & Portfolio I](https://github.com/EShenoda/Portfolio-I)
-
-[Project & Portfolio II](https://github.com/EShenoda/Portfolio-II)
-
-[Project & Portfolio III](https://github.com/EShenoda/Portfolio-III)
-
-[Project & Portfolio IV](https://github.com/EShenoda/Portfolio-IV)
-
-[Project & Portfolio V](https://github.com/EShenoda/Portfolio-V)
+<p align="left"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"</p>
 
 
+### [Project & Portfolio II](https://github.com/EShenoda/Portfolio-II)
+
+<p align="left"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MAMP-005C84?style=for-the-badge&logo=mysql&logoColor=white" />  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> </p>
+
+
+### [Project & Portfolio III](https://github.com/EShenoda/Portfolio-III)
+
+<p align="left"> <img src="https://img.shields.io/badge/Windows%20Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white"</p>
+
+### [Project & Portfolio IV](https://github.com/EShenoda/Portfolio-IV)
+
+<p align="left"> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /> <img src="https://img.shields.io/badge/WatchOS-000000?style=for-the-badge&logo=ios&logoColor=white" /> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> </p>
+
+
+### [Project & Portfolio V](https://github.com/EShenoda/Portfolio-V)
+
+<p align="left">  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/> </p>
 
 ##  Copyright
 Private Repo for ESShenoda@student.fullsail.edu
