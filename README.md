@@ -76,7 +76,7 @@ func playSound(sound: String, type: String = "mp3") {
 __Load Game Animation__
 
 <p align="center">
-  <img src= "Images/Loading.gif" height= 550>
+  <img src= "Images/Loading.gif" height= 350>
 </p>
 
 
@@ -89,11 +89,11 @@ __Animations for pulsating Start / Stop button__
 __Flashing Colors__
 
 <p align="center">
-  <img src= "Images/Button.gif" height=550>
+  <img src= "Images/Button.gif" height=350>
 </p>
 
 <p align="center">
-  <img src= "Images/iPad.gif" height=550>
+  <img src= "Images/iPad.gif" height=350>
 </p>
 
 
@@ -104,7 +104,7 @@ ___
 __Card Shake Animation__
 
 <p align="center">
-  <img src="Images/Shake.gif" height=550>
+  <img src="Images/Shake.gif" height=350>
 </p>
 
 
@@ -114,7 +114,7 @@ ___
 __Custom Segue Transition__
 
 <p align="center">
-  <img src="Images/Segue.gif" height=550>
+  <img src="Images/Segue.gif" height=350>
 </p>
 
 
@@ -123,7 +123,7 @@ ___
 __Layout Changes__
 
 <p align="center">
-  <img src="Images/Layout.gif" height=550>
+  <img src="Images/Layout.gif" height=350>
 </p>
 
 
@@ -134,7 +134,7 @@ __iPad: Add Progress Bar / 10 Extra Cards__
 
 
 <p align="center">
-  <img src= "Images/ProgressBar.gif" height=550>
+  <img src= "Images/ProgressBar.gif" height=350>
 </p>
 
 
