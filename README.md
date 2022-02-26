@@ -13,7 +13,7 @@
 * [Android Examples](#android-examples)
 * [Associate's Degree Courses](#associate-degree-program)
 * [Bachelor's Degree Courses](#bachelor-degree-program)
-* [Project Courses](#project-and-portfolio)
+* [Project Courses](#project-and-portfolio-courses)
 * [Copyright](#copyright)
 * [Contact](#contact)
 
@@ -256,7 +256,7 @@ ___
 
 ___
 
-## Project and Portfolio
+## Project and Portfolio Courses
 
 ### [Project & Portfolio I](https://github.com/EShenoda/Portfolio-I)
 
