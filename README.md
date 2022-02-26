@@ -73,15 +73,20 @@ func playSound(sound: String, type: String = "mp3") {
 ```
 
 
+__Load Game Animation__
 
 <p align="center">
   <img src= "Images/Loading.gif" height= 550>
 </p>
 
 
-__Load Game Animation__
 
 ___
+
+
+__Animations for pulsating Start / Stop button__
+
+__Flashing Colors__
 
 <p align="center">
   <img src= "Images/Button.gif" height=550>
@@ -92,44 +97,40 @@ ___
 </p>
 
 
-__Animations for pulsating Start / Stop button__
-
-__Flashing Colors__
-
 ___
 
+
+
+__Card Shake Animation__
 
 <p align="center">
   <img src="Images/Shake.gif" height=550>
 </p>
 
 
-__Card Shake Animation__
-
 ___
 
+
+__Custom Segue Transition__
 
 <p align="center">
   <img src="Images/Segue.gif" height=550>
 </p>
 
 
-__Custom Segue Transition__
-
 ___
 
-
+__Layout Changes__
 
 <p align="center">
   <img src="Images/Layout.gif" height=550>
 </p>
 
-__Layout Changes__
-
 
 ___
 
 
+__iPad: Add Progress Bar / 10 Extra Cards__
 
 
 <p align="center">
@@ -137,7 +138,6 @@ ___
 </p>
 
 
-__iPad: Add Progress Bar / 10 Extra Cards__
 
 
 
@@ -204,9 +204,11 @@ Topics of research:
 </p>
 
 
+[Click Here to View More Android Illustrations](https://github.com/EShenoda/Android-Illustrations)
+
+
+
 <h4 align="center"> <font color="red"> **Links to Degree Program & Portfolio Courses require a GitHub account. Private repositories are available for collaborators. </font> </h4>
-
-
 
 
 
