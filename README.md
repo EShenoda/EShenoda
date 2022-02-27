@@ -27,7 +27,9 @@
 Current Course: Bachelor's Degree Final Project
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=EShenoda&show_icons=true&theme=tokyonight&count_private=true)
+
+
+
 
 
 ## iOS Examples
