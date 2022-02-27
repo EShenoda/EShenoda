@@ -27,7 +27,7 @@
 Current Course: Bachelor's Degree Final Project
 
 
-
+![](https://github.com/EShenoda/github-stats/blob/master/generated/overview.svg)
 
 
 
