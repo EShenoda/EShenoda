@@ -29,6 +29,7 @@ Current Course: Bachelor's Degree Final Project
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=EShenoda&count_private=true&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername)](https://github.com/anuraghazra/github-readme-stats)
 
 ## iOS Examples
 
