@@ -21,10 +21,11 @@
 ## Status
 
 
-<h3 style="bold"> <font color="green"> Current GPA: 3.96  </font> </h4>
+<h3 style="bold"> <font color="green"> Current GPA: 3.97  </font> </h4>
 
 
-Current Course: Bachelor's Degree Final Project
+Private repositories available upon request
+Graduation date: June 2022
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EShenoda&count_private=true&theme=tokyonight)
 
