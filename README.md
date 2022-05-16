@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Emil Shenoda</h1>
+<h2 align="center">Hello, I'm Emil Shenoda</h1>
 <h3 align="center">I'm currently working on a Bachelor's Degree in Mobile Development at Full Sail University.</h3>
 
 <p align="center">
@@ -8,6 +8,7 @@
 
 ## Table of contents
 
+* [About](#about)
 * [Status](#status)
 * [iOS Examples](#ios-examples)
 * [Android Examples](#android-examples)
@@ -16,6 +17,11 @@
 * [Project Courses](#project-and-portfolio-courses)
 * [Copyright](#copyright)
 * [Contact](#contact)
+
+## About
+
+I am scheduled to graduate next month, with a bachelor’s degree in Mobile Development for the iOS & Android platforms. 
+Full Sail University has taught me to learn and apply difficult programming concepts in a fast-paced learning environment. There is so much more to learn and would like the opportunity to continue to learn and grow so that I can become a valuable member of your team.
 
 
 ## Status
