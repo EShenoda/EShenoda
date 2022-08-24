@@ -294,6 +294,6 @@ Private Repo for ESShenoda@student.fullsail.edu
 All rights reserved: EmilShenoda@FullSailUniversity
 
 ## Contact
-Created by [Emil Shenoda](mailto:eshenoda247@gmail.com) - feel free to contact me!
+Created by [Emil Shenoda](mailto:EmilShenodaDev@gmail.com) - feel free to contact me!
 
 [Back to top](#Table-of-contents)
