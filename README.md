@@ -2,7 +2,7 @@
 <h3 align="center">I received a Bachelor's Degree in Computer Science from Full Sail University.</h3>
 
 <p align="center">
-  <img src= "Images/FullSail.jpg" height=450>
+  <img src= "Images/FullSail.jpg" height=650>
 </p>
 
 
