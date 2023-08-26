@@ -182,6 +182,8 @@ Topics of research:
 <img src= "Images/Playstore-2.gif" height=350>
 </p>
 
+<br>
+<br>
 
 ### Media Playback
 
