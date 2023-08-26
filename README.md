@@ -148,6 +148,8 @@ __iPad: Add Progress Bar & 10 Extra Cards__
   <img src= "Images/ProgressBar.gif" height=350>
 </p>
 
+<br>
+<br>
 
 
 
@@ -218,15 +220,20 @@ Topics of research:
   <img src= "Images/Media-6.gif" height=350>
 </p>
 
+<br>
+<br>
 
 ## [Click Here to View More Android Illustrations](https://github.com/EShenoda/Android-Illustrations)
 
 <br>
 <br>
+
+
+### ** Links to Degree Program & Portfolio Courses require a GitHub account. Private repositories are available for collaborators. **
+
+
 <br>
-
-<h3 align="center"> <font color="red"> **Links to Degree Program & Portfolio Courses require a GitHub account. Private repositories are available for collaborators. </font> </h4>
-
+<br>
 
 
 ## Associate Degree Program
