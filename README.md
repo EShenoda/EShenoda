@@ -34,7 +34,7 @@ _________________________________________________________________________
 <br>
 <br>
 
-<h2 align="center">** Please allow a few minutes for GIFs to load ** <br> Thank you so much</h3>
+<h2 align="center">** Please allow a few minutes for GIFs to load ** <br> Thank you so much</h2>
 
 
 
