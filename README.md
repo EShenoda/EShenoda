@@ -153,8 +153,10 @@ __iPad: Add Progress Bar & 10 Extra Cards__
 
 
 
-## [Click Here to View More iOS Illustrations](https://github.com/EShenoda/iOS-Illustrations)
-
+<h2 align="center">[Click Here to View More iOS Illustrations](https://github.com/EShenoda/iOS-Illustrations)</h3>
+<br>
+<br>
+<br>
 
 
 ## Android Examples
