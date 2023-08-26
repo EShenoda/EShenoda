@@ -27,7 +27,7 @@ Full Sail University has taught me to learn and apply difficult programming conc
 ## Status
 
 
-<h3 style="bold"> <font color="green"> Current GPA: 3.97  </font> </h4>
+<h3 style="bold"> <font color="green"> Final GPA: 3.97  </font> </h4>
 
 
 Private repositories available upon request
@@ -38,6 +38,8 @@ Graduation date: June 2022
 
 
 ## iOS Examples
+
+## Please allow a few minutes for GIFs to load.
 
 <h2 align="center">Card Matching Game</h3>
 
