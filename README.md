@@ -153,7 +153,8 @@ __iPad: Add Progress Bar & 10 Extra Cards__
 
 
 
-<h2 align="center">[Click Here to View More iOS Illustrations](https://github.com/EShenoda/iOS-Illustrations)</h3>
+[Click Here to View More iOS Illustrations](https://github.com/EShenoda/iOS-Illustrations)
+
 <br>
 <br>
 <br>
@@ -221,7 +222,9 @@ Topics of research:
 
 ## [Click Here to View More Android Illustrations](https://github.com/EShenoda/Android-Illustrations)
 
-
+<br>
+<br>
+<br>
 
 <h3 align="center"> <font color="red"> **Links to Degree Program & Portfolio Courses require a GitHub account. Private repositories are available for collaborators. </font> </h4>
 
