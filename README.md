@@ -28,12 +28,13 @@ Full Sail University has taught me to learn and apply difficult programming conc
 
 
 ### Full Sail University 
-###Final GPA: 3.97  </font> </h4>
+### Graduated: Valedictorian GPA: 3.97  </font> </h4>
+_________________________________________________________________________
+
+<h2 align="center">Please allow a few minutes for GIFs to load.</h3>
 
 
 ## iOS Examples
-
-## Please allow a few minutes for GIFs to load.
 
 <h2 align="center">Card Matching Game</h3>
 
