@@ -31,7 +31,7 @@ Full Sail University has taught me to learn and apply difficult programming conc
 ### Graduated: Valedictorian GPA: 3.97  </font> </h4>
 _________________________________________________________________________
 
-<h2 align="center">Please allow a few minutes for GIFs to load.</h3>
+<h2 align="center">__Please allow a few minutes for GIFs to load.__</h3>
 
 
 ## iOS Examples
@@ -134,7 +134,7 @@ __Layout Changes__
 ___
 
 
-__iPad: Add Progress Bar / 10 Extra Cards__
+__iPad: Add Progress Bar & 10 Extra Cards__
 
 
 <p align="center">
