@@ -27,14 +27,8 @@ Full Sail University has taught me to learn and apply difficult programming conc
 ## Status
 
 
-<h3 style="bold"> <font color="green"> Final GPA: 3.97  </font> </h4>
-
-
-Private repositories available upon request
-
-Graduation date: June 2022
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EShenoda&count_private=true&theme=tokyonight)
+### Full Sail University 
+###Final GPA: 3.97  </font> </h4>
 
 
 ## iOS Examples
