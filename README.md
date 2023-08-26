@@ -303,7 +303,7 @@ ___
 
 ### [Project & Portfolio III](https://github.com/EShenoda/Portfolio-III)
 
-<p align="left"> <img src="https://img.shields.io/badge/Windows%20Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white"</p>
+<p align="left"> <img src="https://img.shields.io/badge/Windows%20Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></p>
 
 <br>
 
