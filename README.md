@@ -20,15 +20,16 @@
 
 ## About
 
-&nbsp&nbsp&nbsp&nbsp&nbsp I graduated from Full Sail University with bachelor’s degree in computer science. I majored in Mobile Development. I specialize in Android and iOS mobile development. I am proficient in C# and SQL / NoSQL databases.
+&nbsp&nbsp&nbsp&nbsp&nbsp;I graduated from Full Sail University with bachelor’s degree in computer science. I majored in Mobile Development. I specialize in Android and iOS mobile development. I am proficient in C# and SQL / NoSQL databases.
 
-&nbsp&nbsp&nbsp&nbsp&nbsp Full Sail has taught me to learn and apply difficult programming concepts in a fast-paced learning environment. There is so much more to learn. I am studying new programming languages and frameworks so that I can become a valuable member of your team.
+&nbsp&nbsp&nbsp&nbsp&nbsp;Full Sail has taught me to learn and apply difficult programming concepts in a fast-paced learning environment. There is so much more to learn. I am studying new programming languages and frameworks so that I can become a valuable member of your team.
 
 
 ## Status
 
 
 ### Full Sail University 
+
 _Graduated: Valedictorian GPA: 3.97_
 
 
