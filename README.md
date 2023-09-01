@@ -20,15 +20,19 @@
 
 ## About
 
-I majored in Mobile Development for the iOS & Android platforms. 
-Full Sail University has taught me to learn and apply difficult programming concepts in a fast-paced learning environment. There is so much more to learn and would like the opportunity to continue to learn and grow so that I can become a valuable member of your team.
+I graduated from Full Sail University with bachelor’s degree in computer science. I majored in Mobile Development. I specialize in Android and iOS mobile development. I am proficient in C# and SQL / NoSQL databases.
+
+Full Sail has taught me to learn and apply difficult programming concepts in a fast-paced learning environment. There is so much more to learn. I am studying new programming languages and frameworks so that I can become a valuable member of your team.
 
 
 ## Status
 
 
 ### Full Sail University 
-### Graduated: Valedictorian GPA: 3.97  </font> </h4>
+### Graduated: Valedictorian GPA: 3.97 
+
+
+_Currently studying Kotlin, React, and React Native._
 _________________________________________________________________________
 
 <br>
