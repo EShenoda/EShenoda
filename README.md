@@ -238,7 +238,8 @@ Topics of research:
 <br>
 
 
-## ** Links to Program & Portfolio Courses below require a GitHub account. Private repositories are available for collaborators and recruiters. **
+## ** Links to Program & Portfolio Courses below require a GitHub account.** 
+## ** Private repositories are available for collaborators and recruiters. **
 
 
 <br>
