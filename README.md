@@ -26,9 +26,7 @@ I graduated from Full Sail University with bachelor’s degree in computer scien
 
 Full Sail has taught me to learn and apply difficult programming concepts in a fast-paced learning environment. There is so much more to learn. I am studying new programming languages and frameworks so that I can become a valuable member of your team.
 
-
 ## Status
-
 
 ### Full Sail University 
 
@@ -204,22 +202,17 @@ Vision Statement:
 ## [Click Here to View More Android Illustrations](https://github.com/EShenoda/Android-Illustrations)
 
 <br>
-<br>
-
 
 ## [Click Here to View iOS Illustrations](https://github.com/EShenoda/iOS-Illustrations)
 
 
 <br>
-
+<br>
 
 ## ** Links to Program & Portfolio Courses below require a GitHub account.** 
 ## ** Private repositories are available for collaborators and recruiters. **
 
-
 <br>
-<br>
-
 
 ## Associate Degree Program
 
