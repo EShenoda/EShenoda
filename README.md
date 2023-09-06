@@ -16,7 +16,7 @@
 * [Project Illustrations](#project-illustrations)
 * [Associate's Degree Courses](#associate-degree-program)
 * [Bachelor's Degree Courses](#bachelor-degree-program)
-* [Project Courses](#project-and-portfolio-courses)
+* [Portfolio Courses](#project-and-portfolio-courses)
 * [Copyright](#copyright)
 * [Contact](#contact)
 
@@ -44,26 +44,35 @@ _________________________________________________________________________
 
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp; </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;</a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp; <img src="https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials_2x.png" alt="swift" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp; </a>  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
+<br>
+
 ### Integrated Product Development
 
 > This is our final project for the Development Track.
 > We will explore new concepts and develop an application from idea to completion.
 
+<br>
 
 ## Project Overview
 
 <p align="left">  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/> <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> </p>
 
+
 <p align="left">  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>  </p>
 
+<br>
 
 App Name:  
 
 <img src= "Images/Logo.png" height=50>
 
+<br>
+
 Vision Statement:
 
 <img src= "Images/Vision.png" height= 400>
+
+<br>
 
 
 > __'Right click'__ and open Google Drive link in new tab
@@ -102,6 +111,7 @@ Vision Statement:
 ### Activities & Fragments
 
 #### Application Launch
+<br>
 
 <p align="center">
   <img src= "Images/register.png" height=350>
@@ -109,7 +119,7 @@ Vision Statement:
 <img src= "Images/signIn.png" height=350>
 </p>
 
-
+<br>
 
 <p align="center">
   <img src= "Images/forgotPwd.png" height=350>
@@ -128,6 +138,7 @@ Vision Statement:
 <img src= "Images/modal.png" height=350>
 </p>
 
+<br>
 
 <p align="center">
   <img src= "Images/goal.png" height=350>
