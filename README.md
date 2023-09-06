@@ -38,7 +38,7 @@ Graduated: Valedictorian GPA: _3.97_
 _Currently studying Kotlin, React, and React Native._
 _________________________________________________________________________
 
-
+<br>
 
 ## Android Project
 
@@ -200,12 +200,17 @@ Vision Statement:
   <img src= "Images/updateBMR.png" height=350>
 </p>
 
+<br>
 
 ## [Click Here to View More Android Illustrations](https://github.com/EShenoda/Android-Illustrations)
 
 <br>
 <br>
-<br>
+
+
+## [Click Here to View iOS Illustrations](https://github.com/EShenoda/iOS-Illustrations)
+
+
 <br>
 
 
