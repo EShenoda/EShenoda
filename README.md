@@ -30,10 +30,10 @@ Full Sail has taught me to learn and apply difficult programming concepts in a f
 
 ### Full Sail University 
 
-Graduated: Valedictorian GPA: _3.97_
+Graduated: Valedictorian GPA: __3.97__
 
 
-_Currently studying Kotlin, React, and React Native._
+__Currently studying Kotlin, React, and React Native.__
 _________________________________________________________________________
 
 <br>
