@@ -39,67 +39,6 @@ _________________________________________________________________________
 
 ## Android Illustrations
 
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp; </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;</a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
-
-### Advanced Layout Design
-
-__Main concept__: Build a Google Play Store mockup.
-
-
-Topics of research:
-
-* Material Design
-* Nested Layouts
-* Parallax collapsing toolbar layout
-
-<p align="center">
-  <img src= "Images/Playstore-1.png" height=550>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
-<img src= "Images/Playstore-2.gif" height=350>
-</p>
-
-<br>
-<br>
-
-### Media Playback
-
-__Main concept__: Build a media player app that plays songs in sequence. The application should be able to run while closed by using a foreground service. Some of the playback functionality will also be accessible through a notification. Notification allows the user to skip to previous or next song.
-
-
-Topics of research:
-
-* Media Player Class
-* Finite State Machine
-* Foreground Services 
-* Expanded Style Notifications
-* Audio Playback
-* Seekbars & Runnables
-* Raw Resources
-* Retrieve meta-data from media file
-
-<p align="center">
-  <img src= "Images/Media-1.gif" height=350>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
-<img src= "Images/Media-2.gif" height=350>
-</p>
-
-
-<p align="center">
-  <img src= "Images/Media-3.gif" height=350>
-</p>
-
-
-<p align="center">
-  <img src= "Images/Media-5.gif" width=350>
-</p>
-
-
-<p align="center">
-  <img src= "Images/Media-6.gif" height=350>
-</p>
-
-<br>
-<br>
 
 ## [Click Here to View More Android Illustrations](https://github.com/EShenoda/Android-Illustrations)
 
