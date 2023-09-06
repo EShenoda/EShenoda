@@ -199,7 +199,7 @@ Vision Statement:
 
 <br>
 
-## [Click Here to View More Android Illustrations](https://github.com/EShenoda/Android-Illustrations)
+## [Click Here to View More Android Illustrations](https://github.com/EShenoda/Android-Project)
 
 <br>
 
