@@ -10,7 +10,10 @@
 
 * [About](#about)
 * [Status](#status)
-* [Android Illustrations](#android-illustrations)
+* [Android Project](#android-project)
+* [Project Overview](#project-overview)
+* [Demo Video](#demo-video)
+* [Project Illustrations](#project-illustrations)
 * [Associate's Degree Courses](#associate-degree-program)
 * [Bachelor's Degree Courses](#bachelor-degree-program)
 * [Project Courses](#project-and-portfolio-courses)
@@ -37,7 +40,154 @@ _________________________________________________________________________
 
 
 
-## Android Illustrations
+## Android Project
+
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp; </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;</a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp; <img src="https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials_2x.png" alt="swift" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp; </a>  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+
+### Integrated Product Development
+
+> This is our final project for the Development Track.
+> We will explore new concepts and develop an application from idea to completion.
+
+
+## Project Overview
+
+<p align="left">  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/> <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> </p>
+
+<p align="left">  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>  </p>
+
+
+App Name:  
+
+<img src= "Images/Logo.png" height=50>
+
+Vision Statement:
+
+<img src= "Images/Vision.png" height= 400>
+
+
+> __'Right click'__ and open Google Drive link in new tab
+
+[Original Project Plan Document](https://drive.google.com/file/d/1Msz3pSTRe3Hj-TPWF09JVOK9CdPYJb9B/view?usp=sharing)
+
+
+
+#### Integrative Project Research
+
+> __'Right click'__ and open Google Drive link in new tab
+
+[Features, Tasks & Time Estimates Spreadsheet](https://docs.google.com/spreadsheets/d/1XiJaIXxIAC8mifm_rSolv5VZbn8q9-nqhhrD8gu9mRw/edit?usp=sharing)
+
+[Project Tracking Spreadsheet](https://docs.google.com/spreadsheets/d/1hUE-mkvimY-_xrqy6vG_wUyBSOOPSHnu/edit?usp=sharing&ouid=115860969731833325173&rtpof=true&sd=true)
+
+[Market Plan](https://drive.google.com/file/d/10BJD837w-vrXqDpHFxGQhjt9GKKBhEia/view?usp=share_link)
+
+
+#### Proof of Concept
+
+
+> __'Right click'__ and open Google Drive link in new tab
+
+[Adobe XD Prototype link](https://xd.adobe.com/view/b18b3a9f-1aaf-48bd-8920-d2ce69a635b9-e4d8/)
+
+## Demo Video
+
+> __'Right click'__ and open Google Drive link in new tab
+
+[Demo Video Overview](https://drive.google.com/file/d/1o4Sbp3VOvPiWayIpUaSNTQa9TplGdD05/view?usp=share_link)
+
+
+## Project Illustrations
+
+### Activities & Fragments
+
+#### Application Launch
+
+<p align="center">
+  <img src= "Images/register.png" height=350>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
+<img src= "Images/signIn.png" height=350>
+</p>
+
+
+
+<p align="center">
+  <img src= "Images/forgotPwd.png" height=350>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
+<img src= "Images/pwdInvalid.png" height=350>
+</p>
+
+
+-----------------------------------------------------------------------------
+
+#### User's BMR Onboarding Guide
+
+<p align="center">
+  <img src= "Images/bmr.png" height=350>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
+<img src= "Images/modal.png" height=350>
+</p>
+
+
+<p align="center">
+  <img src= "Images/goal.png" height=350>
+</p>
+
+-----------------------------------------------------------------------------
+
+#### User's Diary
+
+<p align="center">
+  <img src= "Images/breakfast.png" height=350>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
+<img src= "Images/lunch.png" height=350>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
+<img src= "Images/dinner.png" height=350>
+</p>
+
+-----------------------------------------------------------------------------
+
+#### Food Item Search
+
+<p align="center">
+  <img src= "Images/demo.png" height=350>
+</p>
+
+
+-----------------------------------------------------------------------------
+
+#### Barcode Scanner
+
+<p align="center">
+  <img src= "Images/barcode.png" height=350>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
+<img src= "Images/scanResult.png" height=350>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
+<img src= "Images/added.png" height=350>
+</p>
+
+-----------------------------------------------------------------------------
+
+#### User's Profile
+
+<p align="center">
+  <img src= "Images/profile.png" height=350>
+</p>
+
+#### Update User's Profile
+
+<p align="center">
+  <img src= "Images/updateEmail.png" height=350>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
+<img src= "Images/updatePwd.png" height=350>
+</p>
+
+#### Update User's BMR
+
+
+<p align="center">
+  <img src= "Images/updateBMR.png" height=350>
+</p>
 
 
 ## [Click Here to View More Android Illustrations](https://github.com/EShenoda/Android-Illustrations)
