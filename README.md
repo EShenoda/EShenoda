@@ -266,14 +266,11 @@ ___
 
 [Android Development II](https://github.com/EShenoda/Android-Development-II)
 
-___
 
-<br>
 <br>
 
 ## Project and Portfolio Courses
 
-<br>
 
 ### [Project & Portfolio I](https://github.com/EShenoda/Portfolio-I)
 
