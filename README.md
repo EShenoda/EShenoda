@@ -111,9 +111,9 @@ Vision Statement:
 <br>
 
 <p align="center">
-  <img src= "Images/register.png" height=350>
+  <img src= "Images/signIn.png" height=350>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
-<img src= "Images/signIn.png" height=350>
+<img src= "Images/register.png" height=350>
 </p>
 
 <br>
