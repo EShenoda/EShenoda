@@ -203,7 +203,7 @@ Vision Statement:
 
 <br>
 
-## [Click Here to View iOS Illustrations](https://github.com/EShenoda/iOS-Illustrations)
+## [Click Here to View iOS Illustrations](https://github.com/EShenoda/iOS-Game)
 
 
 <br>
