@@ -201,8 +201,6 @@ Vision Statement:
 
 ## [Click Here to View More Android Illustrations](https://github.com/EShenoda/Android-Project)
 
-<br>
-
 ## [Click Here to View iOS Illustrations](https://github.com/EShenoda/iOS-Game)
 
 <br>
