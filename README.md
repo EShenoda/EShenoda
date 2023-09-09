@@ -122,6 +122,8 @@ Vision Statement:
 <img src= "Images/pwdInvalid.png" height=350>
 </p>
 
+<br>
+
 #### User's BMR Onboarding Guide
 
 <p align="center">
@@ -136,6 +138,8 @@ Vision Statement:
   <img src= "Images/goal.png" height=350>
 </p>
 
+<br>
+
 #### User's Diary
 
 <p align="center">
@@ -146,6 +150,7 @@ Vision Statement:
 <img src= "Images/dinner.png" height=350>
 </p>
 
+<br>
 
 #### Food Item Search
 
@@ -153,6 +158,7 @@ Vision Statement:
   <img src= "Images/demo.png" height=350>
 </p>
 
+<br>
 
 #### Barcode Scanner
 
@@ -164,11 +170,15 @@ Vision Statement:
 <img src= "Images/added.png" height=350>
 </p>
 
+<br>
+
 #### User's Profile
 
 <p align="center">
   <img src= "Images/profile.png" height=350>
 </p>
+
+<br>
 
 #### Update User's Profile
 
@@ -177,6 +187,8 @@ Vision Statement:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
 <img src= "Images/updatePwd.png" height=350>
 </p>
+
+<br>
 
 #### Update User's BMR
 
