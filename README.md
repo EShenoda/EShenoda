@@ -226,8 +226,6 @@ Vision Statement:
 
 [Visual Frameworks](https://github.com/EShenoda/VFW)
 
-___
-
 
 <br>
 
