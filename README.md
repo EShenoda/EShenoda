@@ -48,8 +48,6 @@ _________________________________________________________________________
 > This is our final project for the Development Track.
 > We will explore new concepts and develop an application from idea to completion.
 
-<br>
-
 ## Project Overview
 
 <p align="left">  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/> <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> </p>
@@ -124,9 +122,6 @@ Vision Statement:
 <img src= "Images/pwdInvalid.png" height=350>
 </p>
 
-
------------------------------------------------------------------------------
-
 #### User's BMR Onboarding Guide
 
 <p align="center">
@@ -141,8 +136,6 @@ Vision Statement:
   <img src= "Images/goal.png" height=350>
 </p>
 
------------------------------------------------------------------------------
-
 #### User's Diary
 
 <p align="center">
@@ -153,7 +146,6 @@ Vision Statement:
 <img src= "Images/dinner.png" height=350>
 </p>
 
------------------------------------------------------------------------------
 
 #### Food Item Search
 
@@ -161,8 +153,6 @@ Vision Statement:
   <img src= "Images/demo.png" height=350>
 </p>
 
-
------------------------------------------------------------------------------
 
 #### Barcode Scanner
 
@@ -173,8 +163,6 @@ Vision Statement:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
 <img src= "Images/added.png" height=350>
 </p>
-
------------------------------------------------------------------------------
 
 #### User's Profile
 
@@ -225,10 +213,6 @@ Vision Statement:
 [Advanced Scalable Data Infrastructures](https://github.com/EShenoda/ASD)
 
 [Visual Frameworks](https://github.com/EShenoda/VFW)
-
-
-<br>
-
 
 ## Bachelor Degree Program
 
