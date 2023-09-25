@@ -212,6 +212,11 @@ Vision Statement:
 
 <br>
 
+
+<p align="center">
+  <img src= "Images/University.png" height=350>
+</p>
+
 ## ** Links to Program & Portfolio Courses below require a GitHub account.** 
 ## ** Private repositories are available for collaborators and hiring managers. **
 
