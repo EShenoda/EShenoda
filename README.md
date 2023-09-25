@@ -14,6 +14,7 @@
 * [Project Overview](#project-overview)
 * [Demo Video](#demo-video)
 * [Project Illustrations](#project-illustrations)
+* [Quick Links](quick-links)
 * [Associate's Degree Courses](#associate-degree-program)
 * [Bachelor's Degree Courses](#bachelor-degree-program)
 * [Portfolio Courses](#project-and-portfolio-courses)
@@ -33,7 +34,7 @@ Full Sail has taught me to learn and apply difficult programming concepts in a f
 Graduated: Valedictorian GPA: __3.97__
 
 
-_Currently studying Kotlin, Spring, React, and React Native._
+_Currently studying SwiftUI, Kotlin, Spring, React, and React Native._
 _________________________________________________________________________
 
 <br>
@@ -199,9 +200,15 @@ Vision Statement:
 
 <br>
 
+## Quick Links
+
 ## [Click Here to View More Android Illustrations](https://github.com/EShenoda/Android-Project)
 
 ## [Click Here to View iOS Illustrations](https://github.com/EShenoda/iOS-Game)
+
+## [Click Here to View iOS Illustrations using SwiftUI](https://github.com/EShenoda/SwiftUI)
+
+##
 
 <br>
 
