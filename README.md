@@ -202,22 +202,22 @@ Vision Statement:
 
 ## Quick Links
 
-## [Click Here to View More Android Illustrations](https://github.com/EShenoda/Android-Project)
+### [Click Here to View More Android Illustrations](https://github.com/EShenoda/Android-Project)
 
-## [Click Here to View iOS Illustrations](https://github.com/EShenoda/iOS-Game)
+### [Click Here to View iOS Illustrations](https://github.com/EShenoda/iOS-Game)
 
-## [Click Here to View iOS Illustrations using SwiftUI](https://github.com/EShenoda/SwiftUI)
+### [Click Here to View iOS Illustrations using SwiftUI](https://github.com/EShenoda/SwiftUI)
 
 ##
 
 <br>
 
 ## ** Links to Program & Portfolio Courses below require a GitHub account.** 
-## ** Private repositories are available for collaborators and recruiters. **
+## ** Private repositories are available for collaborators and hiring managers. **
 
 <br>
 
-## Associate Degree Program
+## Full Sail University Associate's Degree Program
 
 <h4> Visual Studios Platform </h4>
 
