@@ -14,7 +14,7 @@
 * [Project Overview](#project-overview)
 * [Demo Video](#demo-video)
 * [Project Illustrations](#project-illustrations)
-* [Quick Links](quick-links)
+* [Quick Links](#quick-links)
 * [Associate's Degree Courses](#associate-degree-program)
 * [Bachelor's Degree Courses](#bachelor-degree-program)
 * [Portfolio Courses](#project-and-portfolio-courses)
