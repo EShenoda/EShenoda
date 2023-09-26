@@ -260,6 +260,13 @@ Vision Statement:
 
 [Android Development II](https://github.com/EShenoda/Android-Development-II)
 
+<br>
+
+
+<p align="center">
+  <img src= "Images/Project.jpg" height=550>
+</p>
+
 ## Project and Portfolio Courses
 
 ### [Project & Portfolio I](https://github.com/EShenoda/Portfolio-I)
