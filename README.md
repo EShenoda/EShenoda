@@ -275,6 +275,7 @@ Vision Statement:
 
 Unsplash (2019, May 29). Turned-off MacBook Pro between cup of coffee, iPhone, notebook [Photograph]. https://unsplash.com/photos/NuFUbftUu_s
 
+<br>
 
 ### [Project & Portfolio I](https://github.com/EShenoda/Portfolio-I)
 
