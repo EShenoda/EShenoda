@@ -235,7 +235,7 @@ Vision Statement:
 
 [Visual Frameworks](https://github.com/EShenoda/VFW)
 
-## Bachelor Degree Program
+## Bachelor's Degree Program
 
 <h4> iOS Platform </h4>
 
