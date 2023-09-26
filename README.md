@@ -219,10 +219,10 @@ Vision Statement:
 </p>
 
 
-<h4 align="center">Links to Program & Portfolio Courses below require a GitHub account.</h1>
+<h3 align="center">Links to Program & Portfolio Courses below require a GitHub account.</h3>
 
  
-<h4 align="center">Private repositories are available for collaborators and hiring managers.</h1>
+<h3 align="center">Private repositories are available for collaborators and hiring managers.</h3>
 
 <br>
 
