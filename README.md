@@ -226,7 +226,7 @@ Vision Statement:
 ## Associate's Degree Program
 
 
-<h4> Visual Studios Platform </h>
+<h4> Visual Studios Platform </h4>
 
 <br>
 
@@ -241,7 +241,7 @@ Vision Statement:
 
 ## Bachelor's Degree Program
 
-<h4> iOS Platform </h>
+<h4> iOS Platform </h4>
 
 <br>
 
@@ -255,7 +255,7 @@ Vision Statement:
 
 [iOS Project](https://github.com/EShenoda/iOS-Project)
 
-<h4> Android Platform </h>
+<h4> Android Platform </h4>
 
 <br>
 
