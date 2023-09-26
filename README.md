@@ -218,13 +218,20 @@ Vision Statement:
   <img src= "Images/University.png" height=350>
 </p>
 
-## ** Links to Program & Portfolio Courses below require a GitHub account.** 
-## ** Private repositories are available for collaborators and hiring managers. **
+
+
+<p align="center"><b>
+* Links to Program & Portfolio Courses below require a GitHub account. </b></p>
+
+
+
+<p align="center"><b>
+ * Private repositories are available for collaborators and hiring managers. </b></p>
 
 <br>
 
-## Associate's Degree Program
 
+## Associate's Degree Program
 
 <h3> Visual Studios Platform </h3>
 
