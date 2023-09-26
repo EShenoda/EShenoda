@@ -212,6 +212,7 @@ Vision Statement:
 
 <br>
 
+## Full Sail University 
 
 <p align="center">
   <img src= "Images/University.png" height=350>
@@ -222,7 +223,7 @@ Vision Statement:
 
 <br>
 
-## Full Sail University Associate's Degree Program
+## Associate's Degree Program
 
 <h4> Visual Studios Platform </h4>
 
@@ -262,12 +263,12 @@ Vision Statement:
 
 <br>
 
+## Project and Portfolio Courses
 
 <p align="center">
   <img src= "Images/Project.jpg" height=550>
 </p>
 
-## Project and Portfolio Courses
 
 ### [Project & Portfolio I](https://github.com/EShenoda/Portfolio-I)
 
